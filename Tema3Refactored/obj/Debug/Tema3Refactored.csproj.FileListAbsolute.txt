@@ -1,0 +1,7 @@
+D:\App\Training2\Tema3Refactored\bin\Debug\Tema3Refactored.exe.config
+D:\App\Training2\Tema3Refactored\bin\Debug\Tema3Refactored.exe
+D:\App\Training2\Tema3Refactored\bin\Debug\Tema3Refactored.pdb
+D:\App\Training2\Tema3Refactored\obj\Debug\Tema3Refactored.csprojAssemblyReference.cache
+D:\App\Training2\Tema3Refactored\obj\Debug\Tema3Refactored.csproj.CoreCompileInputs.cache
+D:\App\Training2\Tema3Refactored\obj\Debug\Tema3Refactored.exe
+D:\App\Training2\Tema3Refactored\obj\Debug\Tema3Refactored.pdb
